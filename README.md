@@ -1,17 +1,19 @@
-🚛 Trip Analysis Dashboard – Sky Transport Operations
+##🚛 Trip Analysis Dashboard – Sky Transport Operations
+---
 
-📊 Project Overview
+##📊 Project Overview
 This project presents a comprehensive Trip Analysis Dashboard developed in Power BI for Sky Transport.
 The dashboard provides operational and financial insights into shipment and trip performance. It enables leadership, finance teams, and operations managers to make data-driven decisions regarding route optimization, cost management, and revenue growth.
+---
 
-🎯 Project Objective
+##🎯 Project Objective
 The objective of this project is to:
 Monitor logistics efficiency
 Track revenue vs shipping costs
 Identify high and low performing regions
 Analyze trip utilization and empty miles
 Support strategic transport decisions
-
+---
 👥 Target Audience
 Role
 Purpose
