@@ -1,116 +1,147 @@
-## 🚛 Trip Analysis Dashboard – Sky Transport Operations
-
----
+# 🚛 Trip Analysis Dashboard – Sky Transport Operations
 
 ## 📊 Project Overview
-This project presents a comprehensive Trip Analysis Dashboard developed in Power BI for Sky Transport.
-The dashboard provides operational and financial insights into shipment and trip performance. It enables leadership, finance teams, and operations managers to make data-driven decisions regarding route optimization, cost management, and revenue growth.
+
+This project presents a comprehensive and interactive Power BI dashboard developed to analyze trip performance, financial metrics, and operational efficiency for Sky Transport.
+
+The dashboard provides high-level strategic insights as well as detailed operational analysis to support data-driven decision-making in logistics and transportation management.
 
 ---
 
 ## 🎯 Project Objective
+
 The objective of this project is to:
-Monitor logistics efficiency
-Track revenue vs shipping costs
-Identify high and low performing regions
-Analyze trip utilization and empty miles
-Support strategic transport decisions
+
+- Monitor logistics efficiency
+- Track revenue and shipping cost
+- Measure profitability
+- Identify high and low performing regions
+- Analyze empty miles and capacity utilization
+- Enable route optimization and strategic expansion
 
 ---
 
 ## 👥 Target Audience
-Role
-Purpose
-Operations Manager
-Monitor trip efficiency & delays
-Finance Team
-Track revenue, cost & profitability
-Regional Managers
-Compare state-level performance
-Logistics Planner
-Optimize routes & reduce empty miles
-Leadership
-View high-level KPIs & trends
+
+This dashboard is designed for:
+
+- Operations Managers – Monitor trip efficiency and delays
+- Finance Team – Track revenue, cost, and profitability
+- Regional Managers – Compare performance across states
+- Logistics Planners – Optimize routes and reduce inefficiencies
+- Leadership Team – View high-level KPIs and trends
 
 ---
 
 ## 📌 Key KPIs Created
-Total Revenue
-Total Cost
-Total Miles
-Profit (Revenue – Cost)
-Average Revenue per Mile
-Average Trip Duration
-Empty Mile %
-Capacity Utilization
+
+- Total Revenue  
+- Total Cost  
+- Profit (Revenue – Cost)  
+- Total Miles  
+- Average Revenue per Mile  
+- Average Trip Duration  
+- Empty Mile Percentage  
+- Capacity Utilization  
 
 ---
 
-## 📈 Dashboard Pages
-1️⃣ Executive Overview
-High-level KPI cards
-Revenue trend over time
-Revenue by state
-Geographical performance map
-Interactive slicers
-2️⃣ Financial Analysis
-Revenue vs Cost by State
-Profitability comparison
-Top 10 Customers
-Revenue distribution by Trip Type
-3️⃣ Operational Efficiency
-Trip frequency by type
-Average trip duration by state
-Empty mile percentage analysis
-Capacity utilization insights
-4️⃣ Drill-Through Analysis
-Customer-level deep dive
-Revenue trends
-Trip-level breakdown
+## 📈 Dashboard Structure
+
+### 1️⃣ Executive Overview
+- KPI Summary Cards
+- Revenue Trend Over Time
+- Revenue by State
+- Geographic Performance Map
+- Interactive Filters
+
+### 2️⃣ Financial Analysis
+- Revenue vs Cost Comparison by State
+- Profitability Analysis
+- Top 10 Customers by Revenue
+- Revenue Distribution by Trip Type
+
+### 3️⃣ Operational Efficiency
+- Trip Frequency by Type
+- Average Trip Duration by State
+- Empty Mile Percentage Analysis
+- Capacity Utilization Insights
+
+### 4️⃣ Customer Drill-Through
+- Customer-level revenue and profit analysis
+- Trip-level breakdown
+- Revenue trend tracking
 
 ---
 
 ## 🛠 Tools & Technologies Used
-Power BI Desktop
-DAX (Data Analysis Expressions)
-Data Modeling
-Interactive Filters & Drill-through
-Business Storytelling with Visuals
+
+- Power BI Desktop
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Interactive Visualizations
+- Drill-Through Analysis
+- Business Storytelling Techniques
 
 ---
 
-## 🔎 Key Business Insights
-Identified high-revenue states contributing maximum profitability.
-Detected regions where shipping costs exceed revenue.
-Highlighted inefficiencies through empty mile percentage analysis.
-Revealed top-performing customers driving revenue growth.
-Suggested opportunities for route optimization and capacity improvement.
+## 🔍 Key Business Insights
+
+- Identified top revenue-generating states contributing significantly to total profit.
+- Detected regions where shipping costs are disproportionately high.
+- Highlighted inefficiencies using empty mile percentage analysis.
+- Revealed high-value customers driving major revenue.
+- Provided insights to support route optimization and cost reduction strategies.
 
 ---
 
-## 💼 Business Impact
+## 💼 Business Value
+
 This dashboard enables:
-✔ Cost optimization
-✔ Revenue growth tracking
-✔ Operational efficiency improvement
-✔ Strategic expansion decisions
+
+✔ Improved operational visibility  
+✔ Cost optimization  
+✔ Enhanced route planning  
+✔ Revenue performance tracking  
+✔ Strategic logistics decision-making  
 
 ---
+
 ## 📷 Dashboard Preview
 
-<img width="1917" height="1023" alt="Executive overview" src="https://github.com/user-attachments/assets/3903b546-2cbf-435d-a173-7ac6b8bdb755" />
-
-<img width="1912" height="1017" alt="Financial Analysis" src="https://github.com/user-attachments/assets/9f932a4e-f755-434a-93c1-3137b5473a1f" />
-
-<img width="1908" height="1013" alt="Operational Analysis" src="https://github.com/user-attachments/assets/1c4b8661-6d8c-4dd7-9242-90e55739953f" />
-
-<img width="1906" height="1014" alt="Drill-Through Visuals" src="https://github.com/user-attachments/assets/b3a534b8-cc72-4ac9-a133-ca583bb02564" />
+<img width="1917" height="1023" alt="Executive overview" src="https://github.com/user-attachments/assets/f47a7496-66d3-42c0-8fc8-c55a04b1cb31" />
+<img width="1912" height="1017" alt="Financial Analysis" src="https://github.com/user-attachments/assets/0396b4d6-485d-44d5-8c7e-02891bd90b68" />
+<img width="1908" height="1013" alt="Operational Analysis" src="https://github.com/user-attachments/assets/3f6968ab-1554-40cd-9cce-11fd7cc354bf" />
+<img width="1906" height="1014" alt="Drill-Through Visuals" src="https://github.com/user-attachments/assets/c5b8f759-8678-4969-ab35-026165dc72f1" />
 
 ---
 
-## 👤 Created By
+## 📁 Repository Structure
+
+
+Trip-Analysis-Sky-Transport/
+│
+├── Dataset/
+│   └── Sky_Transport_Corp.xlsx
+│
+├── PowerBI/
+│   └── Trip_Analysis_Dashboard.pbix
+│
+├── Screenshots/
+│   ├── 01_Executive_Overview.png
+│   ├── 02_Financial_Analysis.png
+│   ├── 03_Operational_Analysis.png
+│   └── 04_Drill-Through_Visuals.png
+└── README.md
+
+
+---
+
+## 👨‍💼 Created By
 GHANGHAS MAHESH
 
+---
 
+## 🚀 About This Project
 
-
+This project demonstrates advanced Power BI capabilities including KPI creation, DAX calculations, data modeling, drill-through reporting, and business storytelling. It reflects strong analytical thinking and a structured approach to solving real-world logistics problems using data.
